@@ -1,0 +1,13 @@
+.result-table{
+    margin-left: 18%;
+}
+
+.table-header{
+    background-color: #80ff80 ;
+}
+
+.table-data input{
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+}
